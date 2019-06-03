@@ -25,7 +25,7 @@
     <PackageReference Include="Microsoft.Bot.Builder.TemplateManager" Version="4.4.5" />
     <PackageReference Include="Microsoft.Bot.Configuration" Version="4.4.5" />
     <PackageReference Include="Microsoft.Bot.Connector" Version="4.4.5" />
-    <PackageReference Include="Microsoft.Bot.Protocol.StreamingExtensions.NetCore" Version="1.0.0-59176" />
+    <PackageReference Include="Microsoft.Bot.Protocol.StreamingExtensions.NetCore" Version="1.0.0-60023" />
     <PackageReference Include="Microsoft.Bot.Schema" Version="4.4.5" />
     <PackageReference Include="Microsoft.Extensions.Logging" Version="2.2.0" />
     <PackageReference Include="Microsoft.Extensions.Options" Version="2.2.0" />
