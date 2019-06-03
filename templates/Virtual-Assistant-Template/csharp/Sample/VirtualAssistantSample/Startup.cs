@@ -122,6 +122,7 @@ namespace VirtualAssistantSample
             app.UseBotApplicationInsights()
                 .UseDefaultFiles()
                 .UseStaticFiles()
+                .UseWebSockets()
                 .UseMvc();
         }
 
